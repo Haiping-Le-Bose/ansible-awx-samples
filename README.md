@@ -1,2 +1,2 @@
-# ansible-tower-samples
-Ansible Tower Playbook Samples
+# ansible-awx-samples
+Ansible AWX Playbook Samples
